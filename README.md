@@ -13,3 +13,4 @@ Chapter - 04.2 : Doubly Linked List
 Chapter - 04.3 : Crcular Linked List
 Chapter - 05.1 : Stack (Array)
 Chapter - 05.2 : Stack (Linked List)
+Chapter - 06.1 : Queue (Array)
