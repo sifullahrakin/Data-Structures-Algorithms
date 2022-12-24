@@ -11,6 +11,5 @@ Chapter - 03   : Data Structures
 Chapter - 04.1 : Linked Lists and Singly Linked List
 Chapter - 04.2 : Doubly Linked List
 Chapter - 04.3 : Crcular Linked List
-Chapter - 05.1 : Stack
-Chapter - 06.1 : Queue (Array)
-Chapter - 06.2 : Queue (Linked List)
+Chapter - 05   : Stack
+Chapter - 06   : Queue
