@@ -14,3 +14,4 @@ Chapter - 04.3 : Crcular Linked List
 Chapter - 05   : Stack
 Chapter - 06   : Queue
 Chapter - 07   : Searching Algorithms
+Chapter - 08   : Sorting Algorithms
