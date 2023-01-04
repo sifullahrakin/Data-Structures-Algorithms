@@ -12,5 +12,4 @@ A data structure is a storage that is used to store and organize data. It is a w
 6. Chapter - 04.3 : Crcular Linked List
 7. Chapter - 05   : Stack
 8. Chapter - 06   : Queue
-9. Chapter - 07.1   : Linear Searching Algorithms
-10. Chapter - 08   : Sorting Algorithms
+
